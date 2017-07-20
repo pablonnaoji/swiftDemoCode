@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>952619370172-aacsuctumtvn4q3if989lu90dqfot25j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.952619370172-aacsuctumtvn4q3if989lu90dqfot25j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6EAsiir8w0uzETeZy82EdL0cdabzGHoc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952619370172</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SGG-Interactive.AskAGuru</string>
+	<key>PROJECT_ID</key>
+	<string>askaguru-6c03f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>askaguru-6c03f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952619370172:ios:328a9f143b06ccca</string>
+	<key>DATABASE_URL</key>
+	<string>https://askaguru-6c03f.firebaseio.com</string>
+</dict>
+</plist>
